@@ -1,0 +1,16 @@
+../../benches/sr19/new/Zaikin/Trivium_no_init_out350_known_last143_1_u.cnf 0 1 299.978 100474 3641389 2724530 0 2793834
+../../benches/sr19/new/Zaikin/Trivium_no_init_out350_known_last143_1.cnf 0 1 299.984 104226 3475110 2532241 0 3458301
+../../benches/sr19/new/Zhou/Eternity-10-06_c18.cnf 0 1 299.929 80755 4875168 2200943 0 4667830
+../../benches/sr19/new/Zhou/Haystacks-ext-12_c18.cnf 0 1 299.992 260262 10908421 10230089 0 9409660
+../../benches/sr19/new/Zhou/Haystacks-ext-13_c18.cnf 0 1 299.988 256572 10648334 10037159 0 8633
+../../benches/sr19/new/Zhou/knight_14.cnf 0 1 299.98 93477 17430464 1589680 0 12922296
+../../benches/sr19/new/Zhou/knight_16.cnf 0 1 299.61 16736 16634584 748199 0 16511080
+../../benches/sr19/new/Zhou/knight_18.cnf 0 1 299.499 14241 17601570 596420 0 17203090
+../../benches/sr19/new/Zhou/knight_20.cnf 0 1 298.912 10391 15773134 456328 0 15465047
+../../benches/sr19/new/Zhou/Pb-chnl15-16_c18.cnf 0 1 299.996 395380 10479177 9025300 0 152648
+../../benches/sr19/new/Zhou/Pb-chnl20-21_c18.cnf 0 1 299.984 325884 9587113 8325517 0 173712
+../../benches/sr19/new/Zhou/QuasiGroup-4-10_c18.cnf 0 1 299.967 42025 2372407 1329362 0 2279637
+../../benches/sr19/new/Zhou/SocialGolfers-6-6-6-cp_c18.cnf 0 1 299.973 77572 4625943 1549064 0 4625943
+../../benches/sr19/new/Zhou/SocialGolfers-6-6-7-cp_c18.cnf 0 1 299.948 86255 5078343 1671798 0 4631168
+../../benches/sr19/new/Zhou/Subisomorphism-g10-g23_c18.cnf 0 1 300.018 60068 5512565 3864231 0 5037233
+../../benches/sr19/new/Zhou/Subisomorphism-g10-g27_c18.cnf 0 1 299.964 59657 5420833 3287780 0 5211388

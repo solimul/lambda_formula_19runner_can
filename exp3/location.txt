@@ -1,2 +1,1 @@
 /home/ubuntu/lambda_formula_19runner_can/exp3
-
